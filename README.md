@@ -9,7 +9,7 @@ Welcome to my learning repository focused on mastering the fundamentals and adva
 
 ## 🧠 Why This Repo?
 
-This repository is part of my self-learning initiative to:  
+This repository is part of my self-learning initiative to:
 - Build solid frontend fundamentals
 - Practice hands-on implementation of key concepts
 - Create a personal knowledge base for future reference
