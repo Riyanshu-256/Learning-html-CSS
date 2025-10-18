@@ -17,7 +17,7 @@ This repository is part of my self-learning initiative to:
 
 ---
 
-## 📚 What You'll Find Here    
+## 📚 What You'll Find Here
 
 - ✅ Topic-wise folders for HTML and CSS
 - ✅ Code snippets with explanations
